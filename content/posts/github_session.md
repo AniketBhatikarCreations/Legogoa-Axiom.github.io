@@ -14,7 +14,7 @@ This is the link to view the meeting:
 
 https://youtu.be/suaQeftg5Pg
 <div class="author">
-<img width="30%" class="author-image" src="/images/logo.png"s />
+<img width="30%" class="author-image" src="/images/aniket.jpg"s />
   <span class="author-name">Aniket Bhatikar</span>
   <span class="author-divider"></span>
   <span class="author-date">December 17th 2022</span>

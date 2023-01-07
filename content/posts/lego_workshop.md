@@ -13,7 +13,7 @@ The next day, we added sensors and medium motors to the already assembled Robots
 
 <div class="author">
 <img width="30%" class="author-image" src="/images/logo.png"s />
-  <span class="author-name">Legogoa Axiom</span>
+  <span class="author-name">Saipranav Gandhi</span>
   <span class="author-divider"></span>
   <span class="author-date">January 1st 2023</span>
 </div>

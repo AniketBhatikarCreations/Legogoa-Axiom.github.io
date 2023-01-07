@@ -10,8 +10,8 @@ We conducted this workshop, especially for Mushtifund High School students. Our 
 
  All students were very excited to learn and build the robots. We also taught them how to overcome various errors in robotics that most of us face.
 <div class="author">
-<img width="30%" class="author-image" src="/images/logo.png"/>
+<img width="30%" class="author-image" src="/images/aniket.png"/>
   <span class="author-name">Aniket Bhatikar</span>
   <span class="author-divider"></span>
-  <span class="author-date">December 17th 2022</span>
+  <span class="author-date">December 22nd 2022</span>
 </div>
